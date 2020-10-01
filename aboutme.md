@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: The crew taking on CS 4476
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey what's up, we are the CV gang gang, a group of Georgia Tech CS students taking the class [Introduction to Computer Vision](https://arjunmajum.github.io/fa20cs4476/), led by professor [Devi Parikh](https://www.cc.gatech.edu/~parikh/). The class has a semester-long project, and we decided to do it on intelligent captioning of videos. You can read all about it here: [Proposal]({% post_url 2020-09-30-kickoff %}).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Member Intros
 
-What else do you need?
+- Ethan Gordon
+  - Ha, nerd
+- Jason Lee
+  - Ha, nerd
+- Alex Liu
+  - Ha, nerd
+- Aaditya Raghavan
+  - Ha, nerd
+- Andrew Zhao
+  - Ha, nerd
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Look at all of these [~~chickens~~](https://www.youtube.com/watch?v=F-X4SLhorvw) nerds :eyes:
